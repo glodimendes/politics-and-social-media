@@ -1,0 +1,43 @@
+{
+    "offline": {
+        "school_friendship": [
+            "spanish_highschools__1",
+            "spanish_highschools__2",
+            "spanish_highschools__6",
+            "spanish_highschools__11_10",
+            "spanish_highschools__11_9"
+        ],
+        "school_contact": [
+            "sp_high_school_new__2011",
+            "sp_high_school_new__2012",
+            "sp_primary_school"
+        ],
+        "email": [
+            "email_enron",
+            "uni_email",
+            "email_eu",
+            "dnc"
+        ]
+    },
+    "online": {
+        "facebook": [
+            "facebook_wall",
+            "facebook_organizations__L1",
+            "facebook_organizations__L2",
+            "facebook_organizations__M1",
+            "ego_social__facebook_107",
+            "ego_social__facebook_1912",
+            "ego_social__facebook_combined"
+        ],
+        "google_plus": [
+            "ego_social__gplus_101133961721621664586",
+            "ego_social__gplus_100500197140377336562",
+            "ego_social__gplus_101133961721621664586",
+            "ego_social__gplus_114336431216099933033"
+        ],
+        "twitter": [
+            "twitter_15m",
+            "twitter"
+        ]
+    }
+}
